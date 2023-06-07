@@ -1,5 +1,6 @@
 primeio trabalho de implementação.
 
+endereço do repositorio: https://github.com/DavidRSan/LP-1
 
 Resumo:
 O programa simula a alocação e desalocação de blocos de memória em um heap. A classe `FreeBlock` representa um bloco livre no heap, com um endereço inicial e um comprimento. A classe `MemoryHeap` possui métodos para alocar memória usando as estratégias "First Fit" e "Best Fit", além de liberar memória.
